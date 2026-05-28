@@ -34,4 +34,4 @@ hr-analytics  power-bi  workforce-intelligence  dax  power-query
 hrms  attrition-analysis  recruitment-analytics  data-modeling
 
 ## 📸 Dashboard Preview
-![HR Analytics Dashboard](HR Analytics Dashboard.png)
+![HR Analytics Dashboard](https://github.com/shridhar326/hr-analytics-workforce-intelligence-dashboard/blob/main/HR%20Analytics%20Dashboard.png)
