@@ -33,5 +33,5 @@ Business Partners for strategic people decisions.
 hr-analytics  power-bi  workforce-intelligence  dax  power-query  
 hrms  attrition-analysis  recruitment-analytics  data-modeling
 
-### HR Analysis
-![HR Analytics Dashboard]([screenshots/attrition-dashboard.png](https://github.com/shridhar326/hr-analytics-workforce-intelligence-dashboard/tree/main)
+## 📸 Dashboard Preview
+![HR Analytics Dashboard]([screenshots/dashboard-preview.png](https://github.com/shridhar326/hr-analytics-workforce-intelligence-dashboard/blob/main/HR%20Analytics%20Dashboard.png))
